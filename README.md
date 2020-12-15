@@ -1,7 +1,7 @@
 # CWIPs
 
-CosmWasm Improvement Proposals (CWIPs, pronounced "swips") describe standards and record high-level
-architecture decisions.
+CosmWasm Improvement Proposals (CWIPs, [pronounced "swips"](https://vimeo.com/491116070#t=1608s))
+describe standards and record high-level architecture decisions.
 
 ## Areas of interest
 
